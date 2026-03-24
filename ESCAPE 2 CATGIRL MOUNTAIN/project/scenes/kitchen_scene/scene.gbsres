@@ -3,7 +3,7 @@
   "id": "6f906ac9-81cc-4ba1-8646-38b5630a4b13",
   "_index": 17,
   "name": "Kitchen Scene",
-  "backgroundId": "1da35172-aea4-40b4-8215-7992d9245b34",
+  "backgroundId": "1898f2c0-067a-41c6-ad4c-20ea9441cd0b",
   "tilesetId": "",
   "width": 20,
   "height": 18,
@@ -14,9 +14,17 @@
   "collisions": "",
   "autoFadeSpeed": 1,
   "symbol": "scene_18",
-  "x": 472,
+  "x": 448,
   "y": 32,
-  "script": [],
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "f4900fd9-de61-4ec2-893e-2e058d42e431"
+      },
+      "id": "299156fe-3f4e-4890-834f-808c58f55fbc"
+    }
+  ],
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": []
