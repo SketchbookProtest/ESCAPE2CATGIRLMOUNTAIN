@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "689df49c-16af-417b-8bf7-66385d1b2430",
+  "name": "spagett1",
+  "symbol": "sprite_spagett1",
+  "states": [
+    {
+      "id": "086c75e0-f468-49ae-80a3-6105609d1d92",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "55317edc-25ed-4764-8744-ba62466e77a7",
+          "frames": [
+            {
+              "id": "cc1b8fab-d063-4c81-bfcd-f5348082cffa",
+              "tiles": [
+                {
+                  "id": "0bc1d080-1b61-4a82-8f3c-73e484d3db38",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "90ef6355-3061-44cf-b7a3-60e755db6d01",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fd094f9d-a2bb-4488-b29b-0c8bb0d7b458",
+          "frames": [
+            {
+              "id": "2ce6ae45-e2b5-453b-876b-5979d46c0c1d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "69c5c3a1-52cc-4af3-97e6-2be1faf28bc6",
+          "frames": [
+            {
+              "id": "d9c9272d-a7b1-48a5-9db6-b226c8da9a11",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a3aef5d5-a6b4-4053-9228-a9243e0e817d",
+          "frames": [
+            {
+              "id": "05fc4543-a18e-4345-bc26-12fbc044225d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b6976ada-f2d9-46a6-92f0-fe3bebee2a07",
+          "frames": [
+            {
+              "id": "a013fccf-7070-4596-84af-ea12d0c9f4ee",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "62d20814-d7b4-45c4-9355-a3cbd603b6df",
+          "frames": [
+            {
+              "id": "693e1f08-4750-4dc1-a02a-256c3575ad39",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2e4bbfef-ab16-4e30-8191-adb264873008",
+          "frames": [
+            {
+              "id": "55045141-f37a-4266-9349-91e311ddaef8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ca3b795c-f175-49e5-991d-14c57ca979fa",
+          "frames": [
+            {
+              "id": "269349f2-5e07-45b6-a2bb-b73a6253abe3",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "spagett1.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "d0af21051dfa9e0b73369b86ba74a824c8c5b650"
+}

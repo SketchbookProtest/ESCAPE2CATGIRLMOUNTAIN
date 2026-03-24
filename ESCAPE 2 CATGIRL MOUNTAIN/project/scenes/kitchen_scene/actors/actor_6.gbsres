@@ -1,0 +1,37 @@
+{
+  "_resourceType": "actor",
+  "id": "97d1b962-a019-4b7e-b3d6-fd3865f2e8c3",
+  "name": "",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "09ad70c6-3ce5-4b97-9e96-466221418a45",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "collisionExtraFlags": [],
+  "prefabScriptOverrides": {},
+  "symbol": "actor_33",
+  "script": [
+    {
+      "command": "EVENT_COMMENT",
+      "args": {
+        "text": "there should be one other item thats a fakeout and isnt interactable\n"
+      },
+      "id": "68dfdd32-a891-4705-8ed0-28e167385576"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "coordinateType": "tiles",
+  "x": 18,
+  "y": 10,
+  "_index": 5
+}

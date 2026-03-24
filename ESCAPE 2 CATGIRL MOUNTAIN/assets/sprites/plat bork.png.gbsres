@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "c097012c-5936-47b9-be85-c7b7a7278daf",
+  "name": "plat bork",
+  "symbol": "sprite_plat_bork",
+  "states": [
+    {
+      "id": "e830e056-06e7-4bd6-bad2-9a7dd79bd15d",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "fd7daf47-582f-4c65-91f3-958047f5c184",
+          "frames": [
+            {
+              "id": "97a20ee1-0a3d-452b-a8e5-b83dd20b61c0",
+              "tiles": [
+                {
+                  "id": "d12575aa-21f9-4979-a53a-ef78745964a0",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "f90a9913-d247-489c-b3ee-04ba86ea90b5",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c2cae92c-e98f-4dd5-90b8-5dd2502a251a",
+          "frames": [
+            {
+              "id": "9c943f0a-02ab-4876-9b8e-9f56ec706646",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fc2fe887-044b-47a6-8161-4cae069df7b6",
+          "frames": [
+            {
+              "id": "854199c8-d80f-41be-a702-8831326a0cf8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8c4a1565-0966-4483-a451-e7bce9ce5ace",
+          "frames": [
+            {
+              "id": "d3d9b8cf-80e0-41f3-882f-b01e3cde35f2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "69ed3ebf-47c1-42ec-b891-1f8fe0f4dd92",
+          "frames": [
+            {
+              "id": "d0afbd54-0b35-4d19-856d-70466d568f83",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9197d05d-17dc-4d61-b279-550b98f9395b",
+          "frames": [
+            {
+              "id": "4fe84586-ec6f-4160-b0f0-0a39b7f58d63",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "33b321d4-0f2a-4b87-816d-e904c3763c5a",
+          "frames": [
+            {
+              "id": "210c4d47-f8d1-4591-a854-1a4c5f260a8f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5082a0cd-f6af-48f0-a803-683cec7a7edf",
+          "frames": [
+            {
+              "id": "a58b2fb1-358b-484b-8e6b-832b9f1e046f",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "plat bork.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "b0530295fafab072f66a08e0c02b142f2eb34e90"
+}

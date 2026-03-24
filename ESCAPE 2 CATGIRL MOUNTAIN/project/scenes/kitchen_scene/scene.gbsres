@@ -11,11 +11,11 @@
   "colorModeOverride": "none",
   "paletteIds": [],
   "spritePaletteIds": [],
-  "collisions": "",
+  "collisions": "0026+0f!0013+0f!002+0f7+002+0f9+002+0f!0010+0f!002+0f!0010+0f!002+0f!0010+0f!002+0f!0010+0f!002+0f!0010+0f!002+0f!0010+0f!002+0f!0010+0f2+00!0f!0010+0f!002+0f!0010+0f!002+0f!0010+0f!002+0f!0010+0f!002+0f!0010+0f!002+0f!0026+",
   "autoFadeSpeed": 1,
   "symbol": "scene_18",
-  "x": 448,
-  "y": 32,
+  "x": 464,
+  "y": 176,
   "script": [
     {
       "command": "EVENT_MUSIC_PLAY",

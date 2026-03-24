@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "c5f10fb1-e642-443e-bb92-a9880a3861bb",
+  "name": "gorlic",
+  "symbol": "sprite_gorlic",
+  "states": [
+    {
+      "id": "b5daf9c7-25cd-4ac0-8466-4041e5605a1a",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "fa8ca9bf-9198-4d88-a168-53935470ef49",
+          "frames": [
+            {
+              "id": "59a72587-b39a-4ab3-b651-665ecd08cdcd",
+              "tiles": [
+                {
+                  "id": "f18c18de-d850-4821-b09d-34533435fafc",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "94b22732-fe81-4d32-b207-c3260d308609",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "def8564b-082a-41c4-bafa-30425665b72c",
+          "frames": [
+            {
+              "id": "242f9e45-35c8-47fc-84f5-4b493cfcbc76",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1678b14c-90ac-4986-8cca-907b349e47a4",
+          "frames": [
+            {
+              "id": "6bdc7cbb-7a63-4c41-8341-5bc565e4e3df",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d4cc7378-0ac3-45df-8758-da73a4e274d4",
+          "frames": [
+            {
+              "id": "c7f1ec6c-82e9-4d73-bcd5-6c847a53ee60",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d10040c8-00f5-44b6-9338-545e077c57a4",
+          "frames": [
+            {
+              "id": "00e4ccc4-0600-45e5-ba88-16e3c3d3603f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bb2ee5a3-347c-45cd-9292-22541d34601d",
+          "frames": [
+            {
+              "id": "e47734c7-bec8-4767-b7dc-6d61e3fc42fd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f4447878-4c0b-4df7-98ec-7c9923410b10",
+          "frames": [
+            {
+              "id": "e504e63a-f6ef-4389-92f4-e798161ebae5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a24dc9ed-e944-4709-9e90-8043b3b7fb12",
+          "frames": [
+            {
+              "id": "c26ad686-f7ee-4f37-896a-f472fc9ccf32",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "gorlic.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "fdff8745e78f1b97141b27c30fe2a18c019d4998"
+}
