@@ -14,18 +14,67 @@
   "collisions": "0026+0f!0013+0f!002+0f7+002+0f9+002+0f!0010+0f!002+0f!0010+0f!002+0f!0010+0f!002+0f!0010+0f!002+0f!0010+0f!002+0f!0010+0f!002+0f!0010+0f2+00!0f!0010+0f!002+0f!0010+0f!002+0f!0010+0f!002+0f!0010+0f!002+0f!0010+0f!002+0f!0026+",
   "autoFadeSpeed": 1,
   "symbol": "scene_18",
-  "x": 464,
-  "y": 176,
+  "x": 608,
+  "y": 224,
   "script": [
     {
       "command": "EVENT_MUSIC_PLAY",
       "args": {
         "musicId": "f4900fd9-de61-4ec2-893e-2e058d42e431"
       },
-      "id": "299156fe-3f4e-4890-834f-808c58f55fbc"
+      "id": "58609746-726d-46e9-ace4-ce3dd8fdd420"
+    },
+    {
+      "command": "EVENT_COMMENT",
+      "args": {
+        "text": "oh.\nit's you.\n\nTime to make you dinner again, I suppose. Not like anyone else around here will do it.\n\n- 4 item fetches\n\nbring me the big pot.\n\nyou're taking too long!!\n\nnow bring me the garlic.\n\nyou brought the pot wrong. \nby the way.\n\nwhy are you giving me that look?\n-two responses\n-two custom answers\n\n- bring me the __\n\n-i don't know why you choose to dress like that. you could be so pretty if you wanted to.\n\nmom...\n\ni mean it! you could look really lovely if you tried a bit harder.\n\ni like how i look...\n\nwho was that boy you used to play with? franklyn?\n\nno. mom. we've been through this already.\n\nsuch a nice boy.\n\n*frankie showed me pictures of a dead dog he took on his computer. he turned it into a screamer video and posted it in the usenet knitting board.  he's going to grow up to be a serial killer\n\n you know, i heard his father works in IP law.\n\nmom. i'm gay. you know this.\n\nat least think about finding a boyfriend.\n\ni'm gay mom.\n\n you're almost twelve now. nobody wants an old maid.\n\n-I'M GAY! I'M GAY AND I LIKE GIRLS!\n\n-I LIKE HUGE ANIME BOOBIES!\n\n\n-Ok, now bring me the pot.\n\n\n-...\n-so crass.\n\n\n\nbring me the big plate.\n\n*crack*\n\nWHAT. HAVE. YOU. DONE.\n\ni'msorryi'msorryi'msorry\ni didn't mean it!!!\n\nGO TO YOUR ROOM!\nFOREVER!\n(disable player movement, player runs away)\n",
+        "__collapse": true
+      },
+      "id": "b6cd92c6-1085-40c6-800f-90b720a056a9"
+    },
+    {
+      "command": "EVENT_GROUP",
+      "args": {
+        "__collapse": false
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_TEXT",
+            "args": {
+              "__presetId": "e93ddb9e-6122-45fa-ad21-49a3908e3546",
+              "text": [
+                "oh.",
+                "it's you."
+              ],
+              "__section": "presets",
+              "avatarId": "",
+              "minHeight": 4,
+              "maxHeight": 7,
+              "textX": 1,
+              "textY": 1,
+              "textHeight": 5,
+              "position": "bottom",
+              "clearPrevious": true,
+              "showFrame": "true",
+              "speedIn": -1,
+              "speedOut": -1,
+              "closeWhen": "key",
+              "closeButton": "a",
+              "closeDelayTime": 0.5,
+              "closeDelayFrames": 30,
+              "__collapse": false
+            },
+            "id": "b7465aef-1326-4918-bb46-74ff1530005b"
+          }
+        ]
+      },
+      "id": "ad5849f0-e745-4ad5-ba82-7b8dc002c632"
     }
   ],
   "playerHit1Script": [],
   "playerHit2Script": [],
-  "playerHit3Script": []
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "",
+  "autoFadeEventCollapse": false
 }

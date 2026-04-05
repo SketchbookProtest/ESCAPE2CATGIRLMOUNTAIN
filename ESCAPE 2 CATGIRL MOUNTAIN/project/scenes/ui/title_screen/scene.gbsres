@@ -21,14 +21,16 @@
       "command": "EVENT_MUSIC_PLAY",
       "args": {
         "musicId": "4f144f63-6005-4e99-b570-92a526201bd3",
-        "loop": false
+        "loop": false,
+        "__collapse": true
       }
     },
     {
       "id": "ff79b819-b435-4ef8-af20-07302038959f",
       "command": "EVENT_ACTOR_DEACTIVATE",
       "args": {
-        "actorId": "player"
+        "actorId": "player",
+        "__collapse": true
       }
     },
     {
@@ -40,18 +42,23 @@
           "b",
           "start",
           "select"
-        ]
+        ],
+        "__collapse": true
       }
     },
     {
       "command": "EVENT_RNG_SEED",
-      "args": {},
+      "args": {
+        "__collapse": true
+      },
       "id": "8ad0321f-22d6-4648-ac0f-72703fe864a4"
     },
     {
       "id": "19a94599-0006-4e3f-9049-c5087d230ed8",
       "command": "EVENT_LOOP",
-      "args": {},
+      "args": {
+        "__collapse": true
+      },
       "children": {
         "true": [
           {
@@ -128,10 +135,26 @@
           }
         ]
       }
+    },
+    {
+      "command": "EVENT_COMMENT",
+      "args": {
+        "text": "STUFF TO ADD/LOOK UP:\n-fonts for different characters\n-custom player sprites\n-variables in dialogue - custom player name?\n-masterlist for credits for assets used\n\n",
+        "__collapse": true
+      },
+      "id": "f564297b-6fa9-43b7-a387-6450ac16cd1e"
+    },
+    {
+      "command": "EVENT_COMMENT",
+      "args": {
+        "text": "CREDITS/ASSETS USED:\nhttps://jeremyoduber.itch.io/fonts-for-gb-studio - mom font"
+      },
+      "id": "1fe8a1d0-2080-4560-8aa3-dafcaacae5f7"
     }
   ],
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "collisions": ""
+  "collisions": "",
+  "autoFadeEventCollapse": true
 }
