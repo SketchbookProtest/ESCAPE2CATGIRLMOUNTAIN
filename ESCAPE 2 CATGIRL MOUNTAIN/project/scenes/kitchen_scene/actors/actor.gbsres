@@ -31,10 +31,11 @@
               "operator": "<=",
               "distance": {
                 "type": "number",
-                "value": 0
+                "value": 1
               },
               "otherActorId": "$self$",
-              "__collapseElse": true
+              "__collapseElse": true,
+              "__collapse": false
             },
             "children": {
               "true": [
@@ -45,7 +46,8 @@
                     "text": [
                       "!F:e375672a-b236-4d12-8411-96253866ebb6!Oh.",
                       "!F:e375672a-b236-4d12-8411-96253866ebb6!It's you.",
-                      "\\006\\020!F:e375672a-b236-4d12-8411-96253866ebb6!Time to make you \ndinner again, I \nsuppose. Not like \nanyone else around\nhere will do it."
+                      "\\006\\020!F:e375672a-b236-4d12-8411-96253866ebb6!Time to make you \ndinner again, I \nsuppose.",
+                      "!F:e375672a-b236-4d12-8411-96253866ebb6!Not like \nanyone else around\nhere will do it."
                     ],
                     "__section": "text",
                     "avatarId": "",
