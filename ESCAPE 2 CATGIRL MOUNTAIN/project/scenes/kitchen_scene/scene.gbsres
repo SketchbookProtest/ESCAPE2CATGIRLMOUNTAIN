@@ -21,7 +21,7 @@
       "command": "EVENT_COMMENT",
       "args": {
         "text": "SCRIPT/DIALOGUE\n\noh.\nit's you.\n\nTime to make you dinner again, I suppose. Not like anyone else around here will do it.\n\n- 4 item fetches\n\nbring me the big pot.\n\nyou're taking too long!!\n\nnow bring me the garlic.\n\nyou brought the pot wrong. \nby the way.\n\nwhy are you giving me that look?\n-two responses\n-two custom answers\n\n- bring me the __\n\n-i don't know why you choose to dress like that. you could be so pretty if you wanted to.\n\nmom...\n\ni mean it! you could look really lovely if you tried a bit harder.\n\ni like how i look...\n\nwho was that boy you used to play with? franklyn?\n\nno. mom. we've been through this already.\n\nsuch a nice boy.\n\n*frankie showed me pictures of a dead dog he took on his computer. he turned it into a screamer video and posted it in the usenet knitting board.  he's going to grow up to be a serial killer\n\n you know, i heard his father works in IP law.\n\nmom. i'm gay. you know this.\n\nat least think about finding a boyfriend.\n\ni'm gay mom.\n\n you're almost twelve now. nobody wants an old maid.\n\n-I'M GAY! I'M GAY AND I LIKE GIRLS!\n\n-I LIKE HUGE ANIME BOOBIES!\n\n\n-Ok, now bring me the pot.\n\n\n-...\n-so crass.\n\n\n\nbring me the big plate.\n\n*crack*\n\nWHAT. HAVE. YOU. DONE.\n\ni'msorryi'msorryi'msorry\ni didn't mean it!!!\n\nGO TO YOUR ROOM!\nFOREVER!\n(disable player movement, player runs away)\n",
-        "__collapse": true
+        "__collapse": false
       },
       "id": "b6cd92c6-1085-40c6-800f-90b720a056a9"
     },

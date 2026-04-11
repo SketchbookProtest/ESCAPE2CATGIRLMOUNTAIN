@@ -140,7 +140,7 @@
       "command": "EVENT_COMMENT",
       "args": {
         "text": "STUFF TO ADD/LOOK UP:\n-fonts for different characters\n-custom player sprites\n-variables in dialogue - custom player name?\n-masterlist for credits for assets used\n\n",
-        "__collapse": true
+        "__collapse": false
       },
       "id": "f564297b-6fa9-43b7-a387-6450ac16cd1e"
     },
